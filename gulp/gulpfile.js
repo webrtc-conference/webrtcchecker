@@ -20,4 +20,4 @@ gulp.task('compile-extension',['tsc'], function () {
     );
 });
 
-gulp.task('default',['compile-extension']);
+gulp.task('default',['tsc']);
