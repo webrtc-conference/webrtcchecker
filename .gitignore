@@ -71,3 +71,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+## TypeScript ###
+src/typings/*
+
+### gulp ###
+gulp/node_modules
